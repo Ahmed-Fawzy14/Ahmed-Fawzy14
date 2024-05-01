@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Fawzy14)](https://github.com/Ahmed-Fawzy14/github-readme-stats)
+
 
 
 
